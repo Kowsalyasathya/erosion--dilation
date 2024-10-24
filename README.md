@@ -51,16 +51,19 @@ plt.show()
 ```
 ## Output:
 
-### Display the input Image
+### Display the input Image:
+
 
 ![image](https://github.com/user-attachments/assets/6241ddcd-11f4-4c10-99e4-092ad4abb3f7)
 
-### Display the Eroded Image
+### Display the Eroded Image:
+
 
 ![image](https://github.com/user-attachments/assets/782fd875-2855-4215-b43e-5fc8887e075b)
 
 
-### Display the Dilated Image
+### Display the Dilated Image:
+
 
 ![image](https://github.com/user-attachments/assets/129a2d1d-4475-4baf-8e72-5986dd0671d0)
 
